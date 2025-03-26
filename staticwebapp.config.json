@@ -16,7 +16,7 @@
         "redirect": "/.auth/logout"
     },
     {
-        "route": "/*",
+        "route": "/applylist",
         "allowedRoles": ["authenticated"]
     }],
     "navigationFallback": {
